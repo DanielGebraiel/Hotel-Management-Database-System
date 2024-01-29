@@ -56,3 +56,9 @@ Staff members
   
 ![App Screenshot](https://github.com/DanielGebraiel/Hotel-Management-Database-System/blob/main/Screenshots/ndh4.png)
 
+## Lessons Learned
+
+- Using C# and .NET framework
+- Using mySQL and writing complex queries
+- How to make a simple and intuitive UI and UX using .NET framework
+- How to use cyrstal reports to show statistics in a simple and elegant way
